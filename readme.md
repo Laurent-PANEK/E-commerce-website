@@ -53,7 +53,7 @@
 
 #### Développeurs :
 
-- [Laurent PANEK](https://github.com/Laurent-PANEK)
+- [Laurent PANEK](https://github.com/l4u23n7p)
 - [Abdessalam BENHARIRA](https://github.com/Abdessalam98)
 - [Maxence COLMANT](https://github.com/maxencecolmant)
 
